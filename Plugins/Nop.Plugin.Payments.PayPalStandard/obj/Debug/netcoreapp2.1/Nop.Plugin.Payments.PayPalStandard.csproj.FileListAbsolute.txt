@@ -1,0 +1,14 @@
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\plugin.json
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\_ViewImports.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.deps.json
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.AssemblyInfoInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.AssemblyInfo.cs
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.csproj.CopyComplete
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.dll
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.pdb

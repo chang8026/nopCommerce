@@ -1,0 +1,17 @@
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\facebook-signing.png
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\plugin.json
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\Configure.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\PublicInfo.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\_ViewImports.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\logo.jpg
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.deps.json
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.1\Nop.Plugin.ExternalAuth.Facebook.csprojAssemblyReference.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.1\Nop.Plugin.ExternalAuth.Facebook.csproj.CoreCompileInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.1\Nop.Plugin.ExternalAuth.Facebook.AssemblyInfoInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.1\Nop.Plugin.ExternalAuth.Facebook.AssemblyInfo.cs
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.1\Nop.Plugin.ExternalAuth.Facebook.csproj.CopyComplete
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.1\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.1\Nop.Plugin.ExternalAuth.Facebook.pdb

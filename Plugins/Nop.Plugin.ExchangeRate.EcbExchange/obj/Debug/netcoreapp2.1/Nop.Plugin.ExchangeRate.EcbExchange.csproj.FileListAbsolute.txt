@@ -1,0 +1,12 @@
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\plugin.json
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.deps.json
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.csprojAssemblyReference.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CoreCompileInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.AssemblyInfoInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.AssemblyInfo.cs
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CopyComplete
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.pdb

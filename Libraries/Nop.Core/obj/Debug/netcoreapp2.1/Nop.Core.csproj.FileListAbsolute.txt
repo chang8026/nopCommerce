@@ -1,0 +1,11 @@
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Core\bin\Debug\netcoreapp2.1\Nop.Core.deps.json
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Core\bin\Debug\netcoreapp2.1\Nop.Core.runtimeconfig.json
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Core\bin\Debug\netcoreapp2.1\Nop.Core.runtimeconfig.dev.json
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Core\bin\Debug\netcoreapp2.1\Nop.Core.dll
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Core\bin\Debug\netcoreapp2.1\Nop.Core.pdb
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.csprojAssemblyReference.cache
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.csproj.CoreCompileInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.AssemblyInfoInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.AssemblyInfo.cs
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.dll
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.pdb

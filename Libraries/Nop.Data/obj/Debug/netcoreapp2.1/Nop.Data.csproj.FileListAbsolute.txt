@@ -1,0 +1,12 @@
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Data.deps.json
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Data.dll
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Data.pdb
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Core.dll
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Core.pdb
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.csprojAssemblyReference.cache
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.csproj.CoreCompileInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.AssemblyInfoInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.AssemblyInfo.cs
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.csproj.CopyComplete
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.dll
+D:\TESTProject\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.pdb

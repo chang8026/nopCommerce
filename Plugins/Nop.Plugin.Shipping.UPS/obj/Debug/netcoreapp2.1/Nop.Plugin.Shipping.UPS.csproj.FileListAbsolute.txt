@@ -1,0 +1,14 @@
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\plugin.json
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Views\Configure.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Views\_ViewImports.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\logo.jpg
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.deps.json
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.pdb
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.csprojAssemblyReference.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.csproj.CoreCompileInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.AssemblyInfoInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.AssemblyInfo.cs
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.csproj.CopyComplete
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.dll
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.pdb

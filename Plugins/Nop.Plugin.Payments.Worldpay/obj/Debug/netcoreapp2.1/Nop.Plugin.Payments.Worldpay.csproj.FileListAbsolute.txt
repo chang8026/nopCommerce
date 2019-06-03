@@ -1,0 +1,17 @@
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\plugin.json
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Configure.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\PaymentInfo.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\_ViewImports.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Customer\_CreateOrUpdate.Worldpay.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\cards.jpg
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\logo.jpg
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.deps.json
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.dll
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.pdb
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csprojAssemblyReference.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csproj.CoreCompileInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.AssemblyInfoInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.AssemblyInfo.cs
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csproj.CopyComplete
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.dll
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.pdb

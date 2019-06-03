@@ -1,0 +1,15 @@
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Manual\plugin.json
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\_ViewImports.cshtml
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.deps.json
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+D:\TESTProject\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.csprojAssemblyReference.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.AssemblyInfoInputs.cache
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.AssemblyInfo.cs
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.csproj.CopyComplete
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.dll
+D:\TESTProject\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.pdb
